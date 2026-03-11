@@ -1,9 +1,9 @@
 ## Hi 👋
 😄name:QIN MINGHUI<br>
-🌱major:software engineering<br>
-<h2>I am very interested in software development or framework.</h2><br>
-🔭I have a desire to explore the logic and composition behind the software.<br>
-⚡I want to design and make my favorite software in the future, such as game software, learning software and so on.<br>
+🌱major:software engineering<hr>
+<h2>I am very interested in software development or framework.</h2>
+🔭I have a desire to explore the logic and composition behind the software. <br>
+⚡I want to design and make my favorite software in the future, such as game software, learning software and so on. <br>
 <!--
 **QINMINGHUI25089240/QINMINGHUI25089240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
