@@ -1,5 +1,5 @@
 ## Hi 👋
-😄name:QIN MINGHUI<br>
+😄I'm QIN MINGHUI, from China.<br>
 🌱major:software engineering<hr>
 <h2>I am very interested in software development or framework.</h2>
 🔭I have a desire to explore the logic and composition behind the software. <br>
